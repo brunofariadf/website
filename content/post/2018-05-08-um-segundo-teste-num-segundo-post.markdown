@@ -1,0 +1,20 @@
+---
+title: Um segundo teste num segundo post
+author: Bruno Faria
+date: '2018-05-08'
+slug: um-segundo-teste-num-segundo-post
+categories:
+  - Matemática
+tags:
+  - Normal
+  - Exponencial
+---
+Esse é mais um teste de muitos testes que devem ser efetuados. Muito legal!
+
+
+```r
+plot(rnorm(10))
+```
+
+<img src="/post/2018-05-08-um-segundo-teste-num-segundo-post_files/figure-html/unnamed-chunk-1-1.png" width="672" />
+
