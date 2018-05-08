@@ -11,7 +11,8 @@ tags:
 ---
 Esse é mais um teste de muitos testes que devem ser efetuados. Muito legal!
 
-```{r}
+```{r Gráfico}
 plot(rnorm(10))
 ```
 
+Estamos indo.

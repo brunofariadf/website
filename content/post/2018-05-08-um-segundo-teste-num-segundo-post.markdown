@@ -16,5 +16,6 @@ Esse é mais um teste de muitos testes que devem ser efetuados. Muito legal!
 plot(rnorm(10))
 ```
 
-<img src="/post/2018-05-08-um-segundo-teste-num-segundo-post_files/figure-html/unnamed-chunk-1-1.png" width="672" />
+<img src="/post/2018-05-08-um-segundo-teste-num-segundo-post_files/figure-html/Gráfico-1.png" width="672" />
 
+Estamos indo.

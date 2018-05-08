@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Exponencial</title>
+      <link>/tags/exponencial/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/exponencial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Go</title>
       <link>/tags/go/</link>
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
@@ -58,11 +67,29 @@
     </item>
     
     <item>
+      <title>Normal</title>
+      <link>/tags/normal/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/normal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Plot</title>
       <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     

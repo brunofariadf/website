@@ -33,6 +33,35 @@ It makes use of a variety of open source projects including:
     </item>
     
     <item>
+      <title>Um segundo teste no segundo post</title>
+      <link>/post/um-segundo-teste-no-segundo-post/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/um-segundo-teste-no-segundo-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Um segundo teste num segundo post</title>
+      <link>/post/um-segundo-teste-num-segundo-post/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/um-segundo-teste-num-segundo-post/</guid>
+      <description>Esse é mais um teste de muitos testes que devem ser efetuados. Muito legal!
+plot(rnorm(10)) Estamos indo.</description>
+    </item>
+    
+    <item>
+      <title>Um teste no primeiro post</title>
+      <link>/post/um-teste-no-primeiro-post/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/um-teste-no-primeiro-post/</guid>
+      <description>Esse é meu blog, muito legal!
+knitr::opts_chunk$set(collapse = TRUE) plot(rnorm(10)) plot(rnorm(10))</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
