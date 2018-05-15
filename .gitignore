@@ -1,4 +1,123 @@
-.Rproj.user
+####### R
+
+# Arquivos de histórico
 .Rhistory
+.Rapp.history
+
+# Arquivos de dados da sessão
 .RData
+
+# Exemplo de código no processo de compilação de pacotes
+* -Ex.R
+
+# Arquivos de saída da compilação do R CMD
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# Arquivos RStudio
+.Rproj.user /
+
+# produziu vinhetas
+vinhetas / *. html
+vinhetas / *. pdf
+
+# Token OAuth2, consulte https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# markdown markdown diretórios de cache
+/ * _ cache /
+/ cache /
+
+# Arquivos criados pelo markdown do R
+* .utf8.md
+* .knit.md
+
+# Arquivos de um projeto R
+.Rproj.user
 .Ruserdata
+README.html
+
+####### Mac OS X
+
+# Geral
+* .DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon deveendar com dois
+Ícone
+
+# Miniaturas
+._ *
+
+# Arquivos que podem aparecer na raiz de um volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Traças
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Diretórios potencialmente criados no compartilhamento remoto do AFP
+.AppleDB
+.AppleDesktop
+Pasta de lixo de rede
+Itens Temporários
+.apdisk
+
+
+####### Jupyter
+sparkr_test.ipynb
+sparklyr_test2_primary.ipynb
+
+MANIFESTO
+construir
+dist
+_construir
+docs / man / *. gz
+docs / source / api / generated
+docs / source / config.rst
+docs / gh-pages
+caderno / estático / componentes
+caderno / estático / estilo / *. min.css *
+caderno / estático / * / js / construído /
+caderno / estático / * / construído /
+caderno / estático / construído /
+notebook / estático / * / js / main.min.js *
+notebook / static / lab / * bundle.js
+node_modules
+* .py [co]
+__pycache__
+* .egg-info
+* ~
+* .bak
+.ipynb_checkpoints
+.tox
+.DS_Store
+\ # * #
+# *
+.cobertura
+src
+
+* .swp
+*.mapa
+.idéia/
+Leia os documentos
+config.rst
+venv
+.venv
+
+####### Spark
+derby.log
+
+
+####### Blogdown
+
+/ blogdown /
+/content/post/2017-08-27-tracking-sptic-patients.Rmd
+/content/post/data/df.tray.RData
+/docs/post/data/df.tray.RData
+/ignorar/
